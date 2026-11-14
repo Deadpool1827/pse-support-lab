@@ -2,7 +2,7 @@
 
 - **Name:**Deepak S
 - **Date submitted:**[14/11/2026]
-- **Repository link:**[Paste your public GitHub repository URL]
+- **Repository link:**[https://github.com/Deadpool1827/pse-support-lab]
 - **Total time spent (real time):**[3hrs]
 
 > Replies below are drafts written on the **exercise clock** (Monday 16 November 2026, Asia/Dubai, UTC+4). They were not sent to real customers. Real work time must be recorded separately at the end.
